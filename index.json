@@ -1,0 +1,47 @@
+{
+  "veiculosNome" : "Veiculos API",
+  "cidade" : "São paulo",
+  "data" : 2022,
+  "veiculos" : [
+    {
+      "name" : "Carros",
+      "modelos" : [
+        "Jeep Renegade"
+        "Chevrolet Onix"
+        "Jeep Compass"
+        "Volkswagen Gol"
+        "Fiat Mobi"
+        "Hyundai Creta"
+        "Volkswagen T-Cross"
+        "Chevrolet Onix Plus.",
+        "Suv",
+        "Onix"
+      ]
+    },
+    {
+      "name" : "Caminhão",
+      "modelos" : [
+        "Volvo FH 540"
+        "Scania R450"
+        "Mercedes-Benz Actros 2651"
+        "DAF XF 105"
+        "Mercedes-Benz Axor 2544"
+        "Volkswagen Constellation 19.360"
+      ]
+    },
+    {
+      "name" : "Motos",
+      "modelos" : [
+        "Bros 160"
+        "yamaha Fazer 250"
+        "Honda CG 160"
+        "Honda NXR 160"
+        "Bmw S1000RR"
+        "Kawasaki Ninja"
+        "Honda Pop 110i"
+        "Honda Biz 110/125",
+        "Yamaha Factor 150 UBS"
+      ]
+    }
+  ]
+}
